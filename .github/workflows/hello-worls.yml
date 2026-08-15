@@ -1,4 +1,4 @@
-caname: hello-world
+name: hello-world
 
 on: push
 
